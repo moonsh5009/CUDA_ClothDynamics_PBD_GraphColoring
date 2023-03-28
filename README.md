@@ -13,6 +13,7 @@ XPBD기법으로 옷감 시뮬레이션을 구현하고 GraphColoring 기법으�
 # Scene
 ![scene](https://user-images.githubusercontent.com/86860544/228162854-b719f67a-e0f0-4d6b-ac8a-76161953c94a.gif)
 
+
 # 참고문헌
  - Sean Curtis, Rasmus Tamstorf, Dinesh Manocha. Fast Collision Detection for Deformable Models using Representative-Triangles. I3D 2008, Redwood City, California, February 15–17, 2008.
  - M. Fratarcangeli1 and F. Pellacini2. Scalable Partitioning for Parallel Position Based Dynamics. EUROGRAPHICS 2015. Volume 34 (2015), Number 2
